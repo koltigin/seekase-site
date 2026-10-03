@@ -94,7 +94,7 @@ h3 { margin-bottom: 10px; font-size: 23px; }
 .feature-index { display: block; margin-bottom: 62px; color: var(--clay); font-size: 12px; font-weight: 800; letter-spacing: .14em; }
 .feature p { margin: 0; color: var(--muted); }
 .app-preview { overflow: hidden; }
-.screen-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; align-items: start; }
+.screen-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 20px; align-items: start; }
 .screen-card { margin: 0; padding: 12px; border: 1px solid var(--line); border-radius: 32px; background: var(--surface); box-shadow: 0 26px 64px rgba(0,0,0,.24); }
 .screen-card.featured-screen { transform: translateY(-24px); }
 .screen-card img { width: 100%; border-radius: 22px; aspect-ratio: 9 / 16; object-fit: cover; object-position: top; background: #100e0c; }
@@ -186,7 +186,7 @@ code { padding: 2px 6px; border-radius: 6px; background: var(--surface-2); color
   .swatch-grid { grid-template-columns: repeat(3, 1fr); }
   .cabinet { min-height: 500px; }
   .feature-grid { grid-template-columns: 1fr; }
-  .screen-grid { grid-template-columns: repeat(4, minmax(240px, 1fr)); overflow-x: auto; margin-inline: -20px; padding: 24px 20px 18px; scroll-snap-type: x mandatory; }
+  .screen-grid { grid-template-columns: repeat(5, minmax(240px, 1fr)); overflow-x: auto; margin-inline: -20px; padding: 24px 20px 18px; scroll-snap-type: x mandatory; }
   .screen-card { scroll-snap-align: center; }
   .screen-card.featured-screen { transform: none; }
   .feature { min-height: auto; }
@@ -208,7 +208,7 @@ code { padding: 2px 6px; border-radius: 6px; background: var(--surface-2); color
   .mini-object { min-height: 98px; }
   .mini-object strong { margin-top: 18px; }
   .section { padding: 72px 0; }
-  .screen-grid { grid-template-columns: repeat(4, minmax(78vw, 1fr)); margin-inline: -14px; padding-inline: 14px; }
+  .screen-grid { grid-template-columns: repeat(5, minmax(78vw, 1fr)); margin-inline: -14px; padding-inline: 14px; }
   .asset-grid, .media-grid { grid-template-columns: 1fr; }
   .media-asset.wide { grid-column: auto; }
   .asset-preview { min-height: 220px; padding: 34px; }
