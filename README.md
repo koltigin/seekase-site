@@ -1,5 +1,5 @@
-# Seekase website
+# Seekase Website
 
-Public landing, support, privacy, terms, community guidelines, and account deletion pages for [seekase.app](https://seekase.app).
+Public static website for [seekase.app](https://seekase.app/).
 
-This repository contains the static website only. It contains no mobile application source, credentials, wallet data, or production user data.
+This repository contains only the public website, brand assets, legal pages, and GitHub Pages deployment workflow. The private mobile application lives separately.

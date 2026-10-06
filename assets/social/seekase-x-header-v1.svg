@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" fill="none">
+  <title>Seekase X profile header</title>
+  <image href="seekase-x-header-1500x500-v1.png" x="0" y="0" width="1500" height="500" preserveAspectRatio="none"/>
+  <rect x="128" y="78" width="590" height="238" rx="14" fill="#161310" fill-opacity="0.45"/>
+  <image href="../brand/mark-on-dark.svg" x="176" y="106" width="114" height="114" preserveAspectRatio="xMidYMid meet"/>
+  <image href="../brand/wordmark-on-dark.svg" x="306" y="116" width="364" height="97" preserveAspectRatio="xMinYMid meet"/>
+  <text x="211" y="272" fill="#F3EEE4" font-family="Georgia, serif" font-size="32" letter-spacing="0.2">Your collection has a story.</text>
+</svg>
