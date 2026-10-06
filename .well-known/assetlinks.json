@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.seekase.app",
+      "sha256_cert_fingerprints": [
+        "5B:3D:81:96:99:FD:42:C3:13:1D:DA:18:7F:AF:32:B6:95:DD:A8:C3:78:99:5E:00:BC:97:9D:E7:84:FC:2D:1C"
+      ]
+    }
+  }
+]
